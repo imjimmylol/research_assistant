@@ -6,7 +6,7 @@
 
 - [ ] look at impact investing 
 
-- [ ] DB 
+- [x] DB 
 
 - [x] Signaling for what ? 
 
